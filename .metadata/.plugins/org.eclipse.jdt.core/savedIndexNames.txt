@@ -1,0 +1,22 @@
+INDEX VERSION 1.126+C:\programacao\MEC\ProjectDrogasDoencas\.metadata\.plugins\org.eclipse.jdt.core
+501458091.index
+1288289076.index
+1725619633.index
+2408672779.index
+2838884272.index
+157841884.index
+3000053649.index
+2714302097.index
+3995695270.index
+2877109961.index
+14347962.index
+3277441100.index
+3458352980.index
+3237765123.index
+3585733931.index
+3220358386.index
+1789169078.index
+3730526690.index
+3121011455.index
+4251467834.index
+3270002986.index

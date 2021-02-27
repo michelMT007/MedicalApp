@@ -1,0 +1,5 @@
+/*cOMANDOS SQLite*/
+/*  A busca será feita se colocar acentos*/
+--select * from DrogasDoenças where droga like '%act%';
+--select * from DrogasDoenças where droga like '%ÁCIDO%';
+

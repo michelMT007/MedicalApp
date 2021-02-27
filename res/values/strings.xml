@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="a">Á</string>
+    <string name="prox">←</string>
+    <string name="anterior">→</string>
+    <string name="hello">Dermatologia Drogas e Doenças </string>
+    <string name="app_name">DermSystem</string>
+    <string name="tvid">ID:</string>
+    <string name="btdoenca">Doença</string>
+    <string name="tvpesquisar">PESQUISA</string>
+	<string name="btdroga">Droga</string>
+	<string name="tvresultadopesquisa">RESULTADO PESQUISA</string>
+	<string name="btlimpar">Limpar</string>
+	<string name="help">Ajuda</string>
+    
+   
+    <string name="apresentacao">DROGAS E DOENÇAS</string>
+    <string name="tvsintoma">PESQUISAR DROGA  </string>
+	<string name="btpesquisar">PESQUISAR</string>
+	<string name="btsalvar">SALVAR</string>
+	<string name="twsolucao">DOENÇAS CAUSADAS PELA DROGA</string>
+	<string name="etsint"></string>
+	<string name="resposta">Resposta</string>
+	<string name="idd">ID:</string>
+	<string name="etid">ID</string>
+	<color name="verde">#20B2AA</color>
+	
+	
+	 <string name="telaprincipal">SOFTWARE DERMATOLOGIA</string>
+	 <string name="tpdrogdoenc">DROGAS E DOENÇAS DERMATOLÓGICAS</string>
+	 <string name="manual">ESTE PROGRAMA TEM COMO OBJETIVO AUXILIAR O PROFISSIONAL DERMATOLOGISTA SOBRE DROGAS E DOENÇAS RELACIONADOS A PELE.
+	                       </string>
+	                       
+	 <string name="bttelaprincipal">TELA PRINCIPAL</string>
+	 <string name="btdrogadoenca">PESQUISAR DROGA</string>
+	 <string name="btdoencadrgo">PESQUISAR DOENCA</string>
+	 <string name="Pesquisa">Pesquisa</string>
+	 <string name="btpesqdroga">Pesquisar DROGA</string>
+	 <string name="btpesqdoenca">Pesquisar DOENÇA</string>
+	 <string name="limparcampos">LIMPAR CAMPOS</string>
+	 <string name="Ajuda">AJUDA</string>
+	 
+</resources>
